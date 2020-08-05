@@ -1,0 +1,7 @@
+C:\Users\ABCD\source\repos\sudokoSolver\bin\Debug\sudokoSolver.exe.config
+C:\Users\ABCD\source\repos\sudokoSolver\bin\Debug\sudokoSolver.exe
+C:\Users\ABCD\source\repos\sudokoSolver\bin\Debug\sudokoSolver.pdb
+C:\Users\ABCD\source\repos\sudokoSolver\obj\Debug\sudokoSolver.csprojAssemblyReference.cache
+C:\Users\ABCD\source\repos\sudokoSolver\obj\Debug\sudokoSolver.exe
+C:\Users\ABCD\source\repos\sudokoSolver\obj\Debug\sudokoSolver.pdb
+C:\Users\ABCD\source\repos\sudokoSolver\obj\Debug\sudokoSolver.csproj.CoreCompileInputs.cache
